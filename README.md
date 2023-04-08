@@ -2,7 +2,7 @@
 
 ## ResultBD
 
-### https://main.d2fgjv771il83b.amplifyapp.com/
+### Font-end: https://main.d2fgjv771il83b.amplifyapp.com/
 ### Admin Panel: https://resultbd-admin-panel.web.app/
 ### Server: https://resultbd-server.onrender.com/
 
